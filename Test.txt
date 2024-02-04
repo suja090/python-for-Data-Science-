@@ -1,0 +1,3 @@
+Hi, I am Sujata Kadam,
+Welcome to my Github Repository
+This is text file to check the git and github configuration.
